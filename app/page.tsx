@@ -3,8 +3,8 @@ import Link from "next/link";
 
 const components = [
   {
-    label: "Combo Box",
-    href: "/combobox",
+    label: "Modal",
+    href: "/modal",
   },
   {
     label: "Input",
